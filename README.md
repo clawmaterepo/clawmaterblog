@@ -8,7 +8,7 @@
   </p>
 
    <p>
-    <strong>[x.com/clawmateblog] [https://clawmate.blog]</strong>
+    <strong>[https://x.com/clawmateblog] [https://clawmate.blog]</strong>
   </p>
 
 
